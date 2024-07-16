@@ -5,16 +5,20 @@ import Splatter from "@/components/Splatter";
 import { useForm, ValidationError } from "@formspree/react";
 import { useState, useEffect, useRef } from "react";
 
+interface PageProps {
+  reset: () => void;
+}
+
 export default function Page() {
   const [state, handleSubmit] = useForm("xeojozpd");
   const [showSuccessMessage, setShowSuccessMessage] = useState(false);
-  const formRef = useRef(null);
+  const formRef = useRef<HTMLFormElement>(null);
 
   useEffect(() => {
     if (state.succeeded) {
       setShowSuccessMessage(true);
       if (formRef.current) {
-        formRef.current.reset(); // Reinicia el formulario
+        formRef.current.reset(); // Reset the form
       }
       const timer = setTimeout(() => {
         setShowSuccessMessage(false);
