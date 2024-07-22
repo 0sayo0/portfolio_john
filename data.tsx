@@ -177,70 +177,39 @@ export const serviceData = [
 export const dataPortfolio = [
   {
     id: 1,
-    title: "TeamTask Frontend",
+    title: "TeamTask FullStack",
     image: "/teamtask-logo.png",
     urlGithub: "https://github.com/0sayo0/TeamTask_Frontend",
     urlDemo: "https://team-task-frontend.vercel.app/auth/login",
   },
   {
     id: 2,
-    title: "TeamTask Backend",
-    image: "/teamtask-logo.png",
-    urlGithub: "https://github.com/0sayo0/TeamTask_Backend",
-    urlDemo: "https://team-task-frontend.vercel.app/auth/login",
+    title: "Calliving Inmuebles",
+    image: "/calliving.png",
+    urlGithub: "https://github.com/0sayo0/calliving_node_mvc",
+    urlDemo: "https://calliving-node-mvc.onrender.com",
   },
-  // {
-  //   id: 2,
-  //   title: "Calliving Inmuebles",
-  //   image: "/image-2.jpg",
-  //   urlGithub: "#!",
-  //   urlDemo: "#!",
-  // },
-
-  // {
-  //   id: 3,
-  //   title: "Kualli",
-  //   image: "/image-3.jpg",
-  //   urlGithub: "#!",
-  //   urlDemo: "#!",
-  // },
   {
     id: 3,
+    title: "Kualli Agency",
+    image: "/kualli.png",
+    urlGithub: "https://github.com/0sayo0/kualli",
+    urlDemo: "https://kualli.netlify.app",
+  },
+  {
+    id: 4,
     title: "Expense Control",
     image: "/bills.png",
     urlGithub: "https://github.com/0sayo0/control_gastos_vite",
     urlDemo: "https://orderedmoney.netlify.app",
   },
   {
-    id: 4,
+    id: 5,
     title: "Veterinary Patients",
     image: "/veterinary.png",
     urlGithub: "https://github.com/0sayo0/citas_react_vite",
     urlDemo: "https://dogtoranimalistic.netlify.app",
   },
-  // {
-  //   id: 4,
-  //   title: "CryptoCotizador",
-  //   image: "/image-6.jpg",
-  //   urlGithub: "#!",
-  //   urlDemo: "#!",
-  // },
-
-  // {
-  //   id: 7,
-  //   title: "Dark Web ",
-  //   image: "/image-7.jpg",
-  //   urlGithub: "#!",
-  //   urlDemo: "#!",
-  // },
-
-  // {
-  //   id: 8,
-  //   title: "E-commerce web",
-  //   image: "/image-8.jpg",
-  //   urlGithub: "#!",
-  //   urlDemo: "#!",
-  // },
 ];
 
 export const dataTestimonials = [
