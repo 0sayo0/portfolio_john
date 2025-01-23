@@ -14,7 +14,7 @@ export default function Introduction() {
       <div className="z-20 grid items-center h-full md:py-0 md:grid-cols-2">
         <div className="flex justify-center items-center mt-72 md:mt-0 ">
           <Image
-            src="/John.png"
+            src="/John.webp"
             priority
             width={1000}
             height={1000}
