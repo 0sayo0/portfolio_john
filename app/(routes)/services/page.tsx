@@ -16,9 +16,9 @@ export default function page() {
             My <span className="font-semibold text-red-500">services</span>
           </h1>
           <p className="mb-3 text-xl text-zinc-600">
-            I offer Fullstack web development services tailored to your needs.
-            From basic technologies to the latest such as TypeScript, React,
-            Tailwind CSS, Node.js, MongoDB, and much more!
+            Build fast, scalable, and responsive web applications with a robust
+            Fullstack solution. From basic technologies to the latest such as
+            React, TailwindCSS, Node.js, MongoDB, Sanity CMS and much more!
           </p>
           <Link
             href="/contact"

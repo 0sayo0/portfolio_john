@@ -113,7 +113,7 @@ export const dataAboutPage = [
 export const dataCounter = [
   {
     id: 0,
-    endCounter: 1,
+    endCounter: 2,
     text: "year of experience",
     lineRight: true,
     lineRightMobile: true,
@@ -177,34 +177,48 @@ export const serviceData = [
 export const dataPortfolio = [
   {
     id: 1,
+    title: "Stephany Manzano Home Collection",
+    image: "/smhc.webp",
+    urlGithub: "https://github.com/0sayo0/smhc-web",
+    urlDemo: "https://stephanymanzano.com/",
+  },
+  {
+    id: 2,
+    title: "Abigail Larsson Fine Fashion",
+    image: "/Abigail-Larsson.jpeg",
+    urlGithub: "https://github.com/0sayo0/Abigail-larsson",
+    urlDemo: "https://abigailarsson.netlify.app/",
+  },
+  {
+    id: 3,
+    title: "Kualli Agency",
+    image: "/Kualli.webp",
+    urlGithub: "https://github.com/0sayo0/kualli",
+    urlDemo: "https://kualli.netlify.app",
+  },
+  {
+    id: 4,
     title: "TeamTask FullStack",
     image: "/teamtask-logo.png",
     urlGithub: "https://github.com/0sayo0/TeamTask_Frontend",
     urlDemo: "https://team-task-frontend.vercel.app/auth/login",
   },
   {
-    id: 2,
+    id: 5,
     title: "Calliving Inmuebles",
     image: "/calliving.png",
     urlGithub: "https://github.com/0sayo0/calliving_node_mvc",
     urlDemo: "https://calliving-node-mvc.onrender.com",
   },
   {
-    id: 3,
-    title: "Kualli Agency",
-    image: "/kualli.png",
-    urlGithub: "https://github.com/0sayo0/kualli",
-    urlDemo: "https://kualli.netlify.app",
-  },
-  {
-    id: 4,
+    id: 6,
     title: "Expense Control",
     image: "/bills.png",
     urlGithub: "https://github.com/0sayo0/control_gastos_vite",
     urlDemo: "https://orderedmoney.netlify.app",
   },
   {
-    id: 5,
+    id: 7,
     title: "Veterinary Patients",
     image: "/veterinary.png",
     urlGithub: "https://github.com/0sayo0/citas_react_vite",

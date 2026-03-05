@@ -46,9 +46,9 @@ export default function Introduction() {
 
           <p className="text-zinc-600 mx-auto mb-2 text-xl md:mx-0 md:mb-4">
             My name is Jonathan Morales, I am a fullstack developer based in
-            Mexico City. I am passionate about creating technological solutions
-            comprehensive, from user interfaces and applications to efficient
-            backend systems.
+            Mexico City. I am passionate about creating comprehensive
+            technological solutions, from user interfaces and applications to
+            efficient backend systems.
           </p>
           <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10 md:mb-0">
             <Link
