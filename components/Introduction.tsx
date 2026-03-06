@@ -10,7 +10,7 @@ const inconsolata = Inconsolata({ subsets: ["latin"] });
 
 export default function Introduction() {
   return (
-    <div className="z-20 w-full h-full md:mt-40">
+    <div className="z-20 w-full h-full md:mt-60">
       <div className="z-20 grid items-center h-full md:py-0 md:grid-cols-2">
         <div className="flex justify-center items-center mt-72 md:mt-0 ">
           <Image

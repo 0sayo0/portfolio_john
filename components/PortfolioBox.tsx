@@ -29,7 +29,7 @@ export default function PortfolioBox(props: PortfolioBoxProps) {
 
       {/* Contenedor de Contenido */}
       <div className="p-5 flex flex-col flex-grow">
-        <h3 className="text-xl font-semibold text-zinc-800 text-center mb-4">
+        <h3 className="text-xl font-semibold text-zinc-600 text-center mb-4">
           {title}
         </h3>
 

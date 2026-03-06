@@ -20,6 +20,13 @@ export default function page() {
             <PortfolioBox key={data.id} data={data} />
           ))}
         </div>
+
+        <p className="text-3xl text-zinc-700 font-semibold text-center my-14">
+          and{" "}
+          <span className="text-4xl text-red-500 font-semibold">
+            much more!
+          </span>
+        </p>
       </div>
     </Container>
   );

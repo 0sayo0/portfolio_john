@@ -18,7 +18,7 @@ export const socialNetworks = [
   {
     id: 1,
     logo: <Linkedin size={30} strokeWidth={1} />,
-    src: "https://www.linkedin.com/in/jonathan-morales-espinosa-295986296/",
+    src: "https://www.linkedin.com/in/jonathan-morales-dev",
   },
   {
     id: 2,
@@ -28,7 +28,7 @@ export const socialNetworks = [
   {
     id: 3,
     logo: <Instagram size={30} strokeWidth={1} />,
-    src: "https://www.instagram.com/0sayo0",
+    src: "https://www.instagram.com/sayo.hn",
   },
   {
     id: 4,
@@ -127,7 +127,7 @@ export const dataCounter = [
   // },
   {
     id: 2,
-    endCounter: 5,
+    endCounter: 6,
     text: "projects completed",
     lineRight: true,
     lineRightMobile: true,
@@ -185,7 +185,7 @@ export const dataPortfolio = [
   {
     id: 2,
     title: "Abigail Larsson Fine Fashion",
-    image: "/Abigail-Larsson.jpeg",
+    image: "/Abigail-Larsson.webp",
     urlGithub: "https://github.com/0sayo0/Abigail-larsson",
     urlDemo: "https://abigailarsson.netlify.app/",
   },
@@ -198,32 +198,32 @@ export const dataPortfolio = [
   },
   {
     id: 4,
+    title: "Veterinary Patients",
+    image: "/vetericare.webp",
+    urlGithub: "https://github.com/0sayo0/citas_react_vite",
+    urlDemo: "https://dogtoranimalistic.netlify.app",
+  },
+  {
+    id: 5,
+    title: "Expense Control",
+    image: "/bills.webp",
+    urlGithub: "https://github.com/0sayo0/control_gastos_vite",
+    urlDemo: "https://orderedmoney.netlify.app",
+  },
+  {
+    id: 6,
     title: "TeamTask FullStack",
     image: "/teamtask-logo.png",
     urlGithub: "https://github.com/0sayo0/TeamTask_Frontend",
     urlDemo: "https://team-task-frontend.vercel.app/auth/login",
   },
-  {
-    id: 5,
-    title: "Calliving Inmuebles",
-    image: "/calliving.png",
-    urlGithub: "https://github.com/0sayo0/calliving_node_mvc",
-    urlDemo: "https://calliving-node-mvc.onrender.com",
-  },
-  {
-    id: 6,
-    title: "Expense Control",
-    image: "/bills.png",
-    urlGithub: "https://github.com/0sayo0/control_gastos_vite",
-    urlDemo: "https://orderedmoney.netlify.app",
-  },
-  {
-    id: 7,
-    title: "Veterinary Patients",
-    image: "/veterinary.png",
-    urlGithub: "https://github.com/0sayo0/citas_react_vite",
-    urlDemo: "https://dogtoranimalistic.netlify.app",
-  },
+  // {
+  //   id: 7,
+  //   title: "Calliving Inmuebles",
+  //   image: "/calliving.png",
+  //   urlGithub: "https://github.com/0sayo0/calliving_node_mvc",
+  //   urlDemo: "https://calliving-node-mvc.onrender.com",
+  // },
 ];
 
 export const dataTestimonials = [
