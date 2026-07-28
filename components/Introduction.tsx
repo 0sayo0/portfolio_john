@@ -45,10 +45,10 @@ export default function Introduction() {
           </h1>
 
           <p className="text-zinc-600 mx-auto mb-2 text-xl md:mx-0 md:mb-4">
-            My name is Jonathan Morales, I am a fullstack developer based in
-            Mexico City. I am passionate about creating comprehensive
-            technological solutions, from user interfaces and applications to
-            efficient backend systems.
+            My name is Jonathan Morales, a Frontend Developer based in Mexico
+            City. I specialize in building high-performance, pixel-perfect web
+            interfaces using React and TypeScript, turning complex UI/UX designs
+            into fast, responsive, and accessible user experiences.
           </p>
           <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10 md:mb-0">
             <Link

@@ -16,9 +16,10 @@ export default function page() {
             My <span className="font-semibold text-red-500">services</span>
           </h1>
           <p className="mb-3 text-xl text-zinc-600">
-            Build fast, scalable, and responsive web applications with a robust
-            Fullstack solution. From basic technologies to the latest such as
-            React, TailwindCSS, Node.js, MongoDB, Sanity CMS and much more!
+            Building fast, scalable, and responsive web applications tailored
+            for modern user experiences. I specialize in turning complex UI/UX
+            designs into high-performance interfaces using React, Next.js,
+            TypeScript, Tailwind CSS, and seamless API integration.
           </p>
           <Link
             href="/contact"

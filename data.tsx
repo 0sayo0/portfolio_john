@@ -10,8 +10,8 @@ import {
   Contact,
   Network,
   Wrench,
-  Smartphone,
   UserRound,
+  LineChart,
 } from "lucide-react";
 
 export const socialNetworks = [
@@ -113,8 +113,8 @@ export const dataAboutPage = [
 export const dataCounter = [
   {
     id: 0,
-    endCounter: 2,
-    text: "year of experience",
+    endCounter: 3,
+    text: "years of experience",
     lineRight: true,
     lineRightMobile: true,
   },
@@ -127,7 +127,7 @@ export const dataCounter = [
   // },
   {
     id: 2,
-    endCounter: 6,
+    endCounter: 10,
     text: "projects completed",
     lineRight: true,
     lineRightMobile: true,
@@ -144,33 +144,33 @@ export const dataCounter = [
 export const serviceData = [
   {
     icon: <Computer />,
-    title: "Web Development",
+    title: "Frontend Architecture",
     description:
-      "Design and development of custom websites, adapted to your needs.",
+      "Building high-performance SPAs and web platforms using React, Next.js, and TypeScript.",
   },
   {
     icon: <Network />,
-    title: "REST API",
+    title: "API Integration",
     description:
-      "Development of an efficient system to manage your business or company.",
+      "Integrating RESTful APIs and GraphQL services for reliable data fetching and state management.",
   },
   {
     icon: <Rocket />,
-    title: "SEO",
+    title: "UI/UX & Mobile-First Design",
     description:
-      "Optimizing your online presence through advanced SEO strategies.",
+      "Converting designs into pixel-perfect, fully responsive web experiences for all screen sizes.",
+  },
+  {
+    icon: <LineChart />,
+    title: "Performance & SEO",
+    description:
+      "Optimizing Core Web Vitals, page speed, and SSR/SSG structure for maximum performance and visibility.",
   },
   {
     icon: <Wrench />,
     title: "Maintenance",
     description:
       "Correction, implementation and optimization of applications and websites.",
-  },
-  {
-    icon: <Smartphone />,
-    title: "Mobile apps",
-    description:
-      "Development of multiplatform mobile applications according to your needs and preferences.",
   },
 ];
 

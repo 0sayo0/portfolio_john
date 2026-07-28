@@ -4,7 +4,7 @@ import { serviceData } from "@/data";
 import { Pagination, Mousewheel } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
-import "swiper/swiper-bundle.css";
+// import "swiper/swiper-bundle.css";
 
 export default function SliderServices() {
   return (
