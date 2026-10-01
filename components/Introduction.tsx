@@ -45,7 +45,7 @@ export default function Introduction() {
           </h1>
 
           <p className="text-zinc-600 mx-auto mb-2 text-xl md:mx-0 md:mb-4">
-            My name is Jonathan Morales, a Frontend Developer based in Mexico
+            My name is Jonathan Morales, a FullStack Developer based in Mexico
             City. I specialize in building high-performance, pixel-perfect web
             interfaces using React and TypeScript, turning complex UI/UX designs
             into fast, responsive, and accessible user experiences.
