@@ -203,19 +203,26 @@ export const dataPortfolio = [
     urlGithub: "https://github.com/0sayo0/citas_react_vite",
     urlDemo: "https://dogtoranimalistic.netlify.app",
   },
+  // {
+  //   id: 5,
+  //   title: "Expense Control",
+  //   image: "/bills.webp",
+  //   urlGithub: "https://github.com/0sayo0/control_gastos_vite",
+  //   urlDemo: "https://orderedmoney.netlify.app",
+  // },
   {
     id: 5,
-    title: "Expense Control",
-    image: "/bills.webp",
-    urlGithub: "https://github.com/0sayo0/control_gastos_vite",
-    urlDemo: "https://orderedmoney.netlify.app",
-  },
-  {
-    id: 6,
     title: "TeamTask FullStack",
     image: "/teamtask-logo.png",
     urlGithub: "https://github.com/0sayo0/TeamTask_Frontend",
     urlDemo: "https://team-task-frontend.vercel.app/auth/login",
+  },
+  {
+    id: 6,
+    title: "Aeris Weather",
+    image: "/aeris_weather.png",
+    urlGithub: "https://github.com/0sayo0/Aeris",
+    urlDemo: "https://aeris-rouge-eight.vercel.app/",
   },
   // {
   //   id: 7,
